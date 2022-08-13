@@ -1,0 +1,18 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "CY79LCY7M4.io.github.wynioux.UniversalLink"
+                ],
+                "components": [
+                    {
+                        "/": "/test/*",
+                        "exclude": false,
+                        "comment": "Matches any URL with a path that starts with /test/."
+                    }
+                ]
+            }
+        ]
+    }
+}
