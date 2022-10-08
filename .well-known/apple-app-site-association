@@ -1,16 +1,5 @@
 {
     "applinks": {
-        "details": [
-            {
-                "appIDs": [
-                    "CY79LCY7M4.io.github.wynioux.UniversalLink"
-                ],
-                "components": [
-                    {
-                        "/": "*"
-                    }
-                ]
-            }
-        ]
+        "details": []
     }
 }
